@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymleaf.org">
+<head th:replace="fragments :: page_head('Verification Succeeded','none')"/>
+<meta charset="UTF-8">
+<title>Welcome to Shopme</title>
+<body>
+<div class="container-fluid">
+    <div th:replace="navigation :: header_menu"></div>
+    <div>&nbsp;</div>
+    <div class="text-center">
+        <h2> Customer Verification </h2>
+        <h4>Congratulation Your account has been verify</h4>
+        <p><a th:href="@{/login}">Login Now</a></p>
+    </div>
+    <div>&nbsp;</div>
+    <div th:replace="navigation :: footer_menu"></div>
+</div>
+</body>
+</html>

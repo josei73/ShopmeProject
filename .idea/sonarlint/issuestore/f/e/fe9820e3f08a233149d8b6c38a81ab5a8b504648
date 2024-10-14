@@ -1,0 +1,15 @@
+
+c
+java:S11929"HDefine a constant instead of duplicating this literal "Shipper" 3 times.(£›‚¢ýÿÿÿÿ
+b
+java:S1192/"GDefine a constant instead of duplicating this literal "Admin" 10 times.(¡â÷Æøÿÿÿÿ
+b
+java:S11924"GDefine a constant instead of duplicating this literal "Editor" 5 times.(¡ÄÛ¤ýÿÿÿÿ
+g
+java:S1192/"LDefine a constant instead of duplicating this literal "Salesperson" 5 times.(¡â÷Æøÿÿÿÿ
+_
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(Ã÷ ´ýÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(ò—Þëýÿÿÿÿ
+ˆ
+java:S4601="rReorder the URL patterns from most to less specific, the pattern "/reports/**" should occurs before "/reports/**".(»Ã«æ

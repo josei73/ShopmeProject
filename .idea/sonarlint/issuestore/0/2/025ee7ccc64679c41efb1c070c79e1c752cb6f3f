@@ -1,0 +1,12 @@
+
+?
+java:S1604°"(Make this anonymous inner class a lambda(‡ÏíÇ
+7
+java:S1643U"Use a StringBuilder instead.(¹¹Èüÿÿÿÿ
+8
+java:S1643ƒ"Use a StringBuilder instead.(¹¹Èüÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éó‰¨øÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+5
+java:S2178À"Correct this "|" to "||".(¨˜ÇÑÿÿÿÿÿ

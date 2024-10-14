@@ -1,0 +1,8 @@
+com\shopme\common\entity\site\SettingRepositoryTest.class
+com\shopme\common\entity\site\CustomerRepositoryTest.class
+com\shopme\common\entity\site\ProductRepositoryTest.class
+com\shopme\common\entity\site\AddressRepositoryTest.class
+com\shopme\common\entity\site\CartItemRepositoryTest.class
+com\shopme\common\entity\site\ShippingRateRepositoryTest.class
+com\shopme\common\entity\site\CategoryTestRepository.class
+com\shopme\common\entity\site\OrderRestControllerTest.class
